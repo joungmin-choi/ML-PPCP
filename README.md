@@ -6,8 +6,9 @@ This is a source code for analysis in "A Machine Learning Framework to Predict P
 * scikit-learn (>= 1.2.2)
 * pandas (>= 2.0.2)
 * numpy (>= 1.24.3)
-* kmodes (>= 0.12.2)
-* R (= v4.1.2)
+* kmodes (v0.12.2)
+* R (v4.1.2)
+* ggplot2
 
 ### Installation
 To install the above requirments, please run below commands in the terminal :
